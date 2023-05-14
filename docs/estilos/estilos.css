@@ -7,7 +7,6 @@ main {
 
 header {
     border: 2px solid black;
-
     height: 100px;
 }
 
@@ -21,5 +20,5 @@ section {
 }
 footer {
     border: 2px solid black;
-    height: 25px;
+    height: 30px;
 }
